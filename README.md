@@ -26,6 +26,8 @@
 
   💘 I like so much of read **literature**, exercise my **writing**, practice **sports** and **coding** (of course)
   
+  ☕ For more about me, take a coffe and read my bio **here** (not finished yet)
+  
 <h2></h2>
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=pwdrc&theme=react&show_icons=true&include_all_commits=true" />
