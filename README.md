@@ -18,9 +18,9 @@
 <h2>🎮 about_me</h2>
 
 
-  📚 I’m a lawyer 
-
   🌱 I'm studying **software engineering** and **information systems** at **University of São Paulo**
+  
+  📚 Bachelor degree in Law at UNESP
 
   🦊 I'm a **free software** enthusiastic and I'm love learning about new **technologies**
 
